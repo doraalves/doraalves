@@ -1,7 +1,7 @@
 ## Oiê! Me chamo Izadora Alves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estou estudando ReactJS
+- 🔭 Atualmente procurando recolocação como Front-End
+- 🌱 Estou estudando ReactJS e Javascript
 
 ## 💻 Tecnologias utilizadas atualmente:
 <div align="center">
