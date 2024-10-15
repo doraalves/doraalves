@@ -3,7 +3,7 @@
 - 🔭 Atualmente procurando recolocação como Front-End
 - 🌱 Estou estudando ReactJS e Javascript
 
-## 💻 Tecnologias utilizadas atualmente:
+## 💻 Habilidade com:
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
